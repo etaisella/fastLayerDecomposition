@@ -4,4 +4,3 @@ pyopencl
 websockets
 cvxopt
 numpy
-PIL
