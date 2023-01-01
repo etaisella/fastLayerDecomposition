@@ -1,0 +1,7 @@
+scipy
+cython
+pyopencl
+websockets
+cvxopt
+numpy
+PIL
